@@ -1,0 +1,12 @@
+{"settings":{"nombre":"José Antonio","rol":"Desarrollador web","tagline":"Creo webs profesionales que hacen crecer tu negocio.","subtitulo":"Diseño y desarrollo páginas web a medida: rápidas, modernas y con panel para que tú mismo gestiones tu contenido.","about":"Soy desarrollador web y me dedico a crear páginas para negocios y proyectos propios. Me gusta entregar webs completas: diseño cuidado, panel de administración, botón de WhatsApp y formularios que te llegan directos al correo.","telefono":"+34 600 000 000","whatsapp":"34600000000","email":"hola@tudominio.es","direccion":"España"},
+"stats":[{"value":"+4","label":"Webs completas"},{"value":"100%","label":"A medida"},{"value":"24h","label":"Respuesta"}],
+"services":[
+{"name":"Web para negocios","desc":"Páginas completas para gimnasios, restaurantes, peluquerías y más.","visible":true},
+{"name":"Panel de administración","desc":"Gestiona precios, productos y contenido sin tocar código.","visible":true},
+{"name":"WhatsApp y formularios","desc":"Botón de WhatsApp y contacto que llega directo a tu correo.","visible":true},
+{"name":"Publicación y mantenimiento","desc":"Dejamos tu web en línea y funcionando.","visible":true}],
+"projects":[
+{"name":"IronCore Fitness","desc":"Web de gimnasio con tarifas, clases, entrenadores y panel admin.","url":"","visible":true},
+{"name":"Sabor & Arte","desc":"Web de restaurante con carta editable y reservas.","url":"","visible":true},
+{"name":"InnovaTech","desc":"Web corporativa tecnológica con panel y formulario de consultoría.","url":"","visible":true}],
+"messages":[]}

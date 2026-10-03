@@ -1,0 +1,3 @@
+import {getDb} from "@/lib/db";export const dynamic="force-dynamic";
+export default function P(){const s=getDb().settings;return <section><div className="wrap"><p className="kick">Sobre mí</p><h1>Webs hechas con <em>cuidado.</em></h1><p className="mut" style={{maxWidth:640,margin:"20px 0"}}>{s.about}</p>
+<div className="grid">{[["Diseño","Estética cuidada y moderna, adaptada a cada negocio."],["Funcionalidad","Panel, WhatsApp y formularios que realmente funcionan."],["Cercanía","Trato directo y respuesta rápida."]].map(([t,d],i)=><div className="card" key={t}><span className="num">0{i+1}</span><h3>{t}</h3><p className="mut">{d}</p></div>)}</div></div></section>}
